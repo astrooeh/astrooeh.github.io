@@ -23,3 +23,5 @@ latest_posts:
 ---
 
 I am a PhD researcher at the Instituto de Astrofísica de Canarias in Tenerife, supported by the "la Caixa" INPhINIT doctoral fellowship and supervised by Savita Mathur and Paul Beck. I expect to defend in early 2027, and I am currently looking for postdoctoral positions.
+
+Note: This website is currently under development.
