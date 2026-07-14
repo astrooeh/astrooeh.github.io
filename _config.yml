@@ -1,11 +1,17 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+title: blank
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Desmond
+middle_name: H.
+last_name: Grossmann
+
+description: Asteroseismology of red giants and precise stellar ages. PhD researcher at the Instituto de Astrofísica de Canarias.
+keywords: asteroseismology, red giants, stellar ages, galactic archaeology, MESA, GYRE, Kepler
+
+url: https://astrooeh.github.io
+baseurl:
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -17,8 +23,6 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-url: https://astrooeh.github.io
-baseurl:
 #url: https://alshedivat.github.io # the base hostname & protocol for your site
 #baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
@@ -342,8 +346,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Grossmann]
+  first_name: [Desmond, D., D. H., Desmond H.]
 
   style: apa
   locale: en
